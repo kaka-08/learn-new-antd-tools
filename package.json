@@ -1,5 +1,5 @@
 {
-  "name": "learn-webpack2",
+  "name": "learn-new-antd-tools",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,7 @@
     "clean": "antd-tools run clean",
     "site": "antd-tools run site",
     "deploy": "antd-tools run update-self && antd-tools run deploy",
-    "just-deploy": "antd-tools run just-deploy",
-    "pub": "antd-tools run update-self && antd-tools run pub",
-    "prepublish": "antd-tools run guard"
+    "just-deploy": "antd-tools run just-deploy"
   },
   "author": "",
   "license": "ISC",
